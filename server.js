@@ -8,7 +8,7 @@
 *  Student ID: 119954212
 *  Date: 02/12/2022
 *
-*  Online (Cyclic) Link: https://better-erin-bikini.cyclic.app
+*  Online (Cyclic) Link: 
 *
 ********************************************************************************/ 
 
